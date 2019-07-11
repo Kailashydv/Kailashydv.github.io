@@ -37,12 +37,12 @@ h1+hr{
 }
 .btn{
 
-	border:0;
+	border:0 !important;
 	background-color: #F05F44;
 	color: #eee;
 	text-transform: uppercase;
 	padding: 1rem 2rem;
-	border-radius: 300px;
+	border-radius: 300px !important;
 	font-weight: 600;
 	letter-spacing: 1.1px;
 	font-size: 1rem;
