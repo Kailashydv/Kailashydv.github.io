@@ -15,10 +15,16 @@ body{
 	background-attachment: fixed;
 	background-position: center;
 	display: flex;
+	justify-content: center;
+	
+}
+
+.container{
+	max-width: 1140px;
+	display: flex;
 	flex-flow: column wrap;
 	align-items: center;
 	justify-content: center;
-	
 }
 
 h1{
