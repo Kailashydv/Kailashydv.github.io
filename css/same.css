@@ -25,6 +25,7 @@ FIXED NAVIGATION
     cursor: pointer;
     margin-bottom: 2rem;
 }
+
 .btn:hover{
     transform: translateY(-.2rem);
     box-shadow: 0 2rem 8rem rgba(0,0,0,.4);
@@ -119,6 +120,7 @@ FIXED NAVIGATION
     text-align: center;
     overflow: hidden;
 }
+
 .f-nav__item{
     padding:2rem 5rem;
 }
@@ -137,6 +139,7 @@ FIXED NAVIGATION
     transition: all .4s;
     z-index:-9999;
 }
+
 .f-nav__checkbox{
     display: none;
 }
